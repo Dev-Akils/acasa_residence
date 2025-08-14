@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+A AcasaRecidence Replica and task management app with updated status of task, based on their Date and stored data using MongoDB. — built with React + Tailwind CSS+MongoDB.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🗂 Task Planner
+A task management and AcasaRecidence Replica built with React js.
 
-## Available Scripts
+🔗 Live Demo
+[View Demo Here] https://acasa-residence.vercel.app/
 
-In the project directory, you can run:
 
-### `npm start`
+📸 Screenshots
+Acasa_Recidence Replica
+-----------------------
+<img width="1891" height="855" alt="image" src="https://github.com/user-attachments/assets/2a814599-4bd5-4208-9577-8f34e96440f9" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Task Management
+---------------
+<img width="1834" height="742" alt="image" src="https://github.com/user-attachments/assets/38410d6b-7398-4366-9ae2-752582d9dcbb" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+✨ Features
+------------
+📆 Task View — View tasks Based on their status (Pending, completed,onProgress,late submitted, early Submitted.)
+🏷 Custom Categories — "Processing", "Completed"
+💾 Storage Save — backend needed (MongoDB)
+🎨 Responsive UI — Tailwind CSS for beautiful design
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✨ Features
+------------
+🎨 Responsive UI — Tailwind CSS for beautiful design and animations(blink).
 
-### `npm run build`
+🛠 Installation
+# Clone the repository
+git clone https://github.com/your-username/task-planner.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Navigate to project folder
+cd acasaresidences
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Install dependencies
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
