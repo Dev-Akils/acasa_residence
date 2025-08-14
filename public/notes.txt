@@ -1,0 +1,3 @@
+require('flowbite/plugin')   npm install flowbite
+
+flowbite-react
